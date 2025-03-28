@@ -33,7 +33,7 @@ a {
   color: white;
 }
 .pcontenedor {
-  background-image: url(../assets/images/headerBg.png);
+  background-image: url(./assets/images/headerBg.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 870px;
